@@ -1,0 +1,14 @@
+#block-red{ /* Родитель который реагирует на наведение */
+    border: 5px solid black;
+    margin: auto;
+    padding: 30px;
+    width: 60%;
+}
+.redtext{ /* Класс к которому применим изменения  */
+    display: block;
+    color: aqua;
+}
+.redcolor { /* Класс кщещрый меняет стили при навдении */
+    color: red;
+    font-weight: 900;
+}
